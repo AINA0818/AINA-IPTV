@@ -64,7 +64,7 @@ http://175.155.119.227:85/tsfile/live/0137_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,河北卫视
 http://171.83.98.13:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,江苏卫视
-http://171.83.98.13:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+http://120.40.39.246:352/newlive/live/hls/22/live.m3u8
 #EXTINF:-1 ,深圳卫视
 http://171.83.98.13:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,广西卫视
